@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Kia ora, I'm Oscar Harron, a Web-Developer 🚀 from New Zealand
+## Kia ora! I'm Oscar Harron, a Web-Developer 💯 from New Zealand
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/drenchoman)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-harron/)
@@ -7,7 +7,7 @@
 
 &nbsp;
 **What I'm up to:**
-<img width="55%" height="300px" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
+<img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
 - 👨🏽‍💻 I’m currently working through [The Odin Project- Full Stack JS Path](https://www.theodinproject.com/);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
@@ -19,6 +19,7 @@
 
 **Languages and Tools:**
 <p>
+  <br />
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Oscar's github stats" src="https://github-readme-stats.vercel.app/api?username=drenchoman&show_icons=true&hide_border=true" />
   </a>
