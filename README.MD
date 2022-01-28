@@ -19,7 +19,6 @@
 
 **Languages and Tools:**
 <p>
-  <br />
   <a href="https://github.com/onimur/handle-path-oz">
     <img width="55%" align="right" alt="Oscar's github stats" src="https://github-readme-stats.vercel.app/api?username=drenchoman&show_icons=true&hide_border=true" />
   </a>
