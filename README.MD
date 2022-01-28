@@ -17,7 +17,7 @@
 **Languages and Tools:**
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=drenchoman&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Oscar's github stats" src="https://github-readme-stats.vercel.app/api?username=drenchoman&show_icons=true&hide_border=true" />
   </a>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
