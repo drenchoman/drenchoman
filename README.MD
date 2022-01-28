@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 I’m currently working through [The Odin Project- Full Stack JS Path](https://www.theodinproject.com/);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
-- 👯 My favourite projects completed [Hacker-Club](https://www.hacker-club.herokuapp.com);
+- 👯 My favourite projects completed [Hacker-Club](https://www.hacker-club.herokuapp.com)
 - 🤔 I’m currently looking for Junior Developer/ Front-End positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
@@ -28,3 +28,5 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+  <br />
+![Visitor Count](https ://profile-counter.glitch.me/{YOUR USER}/count.svg)
