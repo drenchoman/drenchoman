@@ -7,7 +7,7 @@
 
 &nbsp;
 **What I'm up to:**
-<img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
+<img width="55%" height="90%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
 - 👨🏽‍💻 I’m currently working through [The Odin Project- Full Stack JS Path](https://www.theodinproject.com/);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
