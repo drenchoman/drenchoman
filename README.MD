@@ -15,6 +15,8 @@
 - 🤔 I’m currently looking for Junior Developer/ Front-End positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
+
+
 **Languages and Tools:**
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
