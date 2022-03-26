@@ -11,7 +11,7 @@
   
 - 👨🏽‍💻 I’m currently working through [The Odin Project- Full Stack JS Path](https://www.theodinproject.com/);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
-- 👯 My favourite projects completed [Hacker-Club](https://www.hacker-club.herokuapp.com)
+- 👯 My favourite projects completed [Hacker-Club](https://www.hacker-club.herokuapp.com), [Ye-Old-Diary](https://blog-client-zeta.vercel.app/)
 - 🤔 I’m currently looking for Junior Developer/ Front-End positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
