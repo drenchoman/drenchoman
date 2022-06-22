@@ -11,7 +11,7 @@
   
 - 👨🏽‍💻 I’m currently working through the [Dev Academy Web Development Bootcamp](https://www.devacademy.co.nz);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
-- 👯 My favourite projects completed [Hacker-Club](https://www.hacker-club.herokuapp.com), [Ye-Old-Diary](https://blog-client-zeta.vercel.app/)
+- 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Old-Diary](https://blog-client-zeta.vercel.app/)
 - 🤔 I’m currently looking for Junior Developer/ Front-End positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
