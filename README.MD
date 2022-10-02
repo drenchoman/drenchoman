@@ -9,7 +9,7 @@
 **What I'm up to:**
 <img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
-- 👨🏽‍💻 I’m currently working through the [Dev Academy Web Development Bootcamp](https://www.devacademy.co.nz);
+- 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Old-Diary](https://blog-client-zeta.vercel.app/)
 - 🤔 I’m currently looking for Junior Developer/ Front-End positions
