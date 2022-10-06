@@ -12,7 +12,7 @@
 - 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz);
 - 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/)
-- 🤔 I’m currently looking for Junior Developer/ Front-End positions
+- 🤔 I’m currently looking for Junior Developer/ Frontend positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
 
