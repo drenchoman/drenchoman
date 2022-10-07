@@ -10,9 +10,8 @@
 <img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
 - 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz);
-- 🌱 I’m building [Vintageclothing.co.nz](https://www.vintageclothing.co.nz) on the side.
-- 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/)
-- 🤔 I’m currently looking for Junior Developer/ Frontend positions
+- 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
+- 🤔 I’m currently looking for Frontend / Full Stack positions
 - 📫 How to reach me: oscarharron@hotmail.com
 
 
