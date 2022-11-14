@@ -9,8 +9,8 @@
 **What I'm up to:**
 <img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
-- 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz);
-- ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz);
+- 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz)
+- ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
 - 📖 I am currently learning Nextjs, Supabase, Typescript 
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
 - 🤔 I’m currently looking for Frontend / Full Stack positions.
