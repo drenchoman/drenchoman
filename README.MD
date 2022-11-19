@@ -11,7 +11,7 @@
   
 - 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz)
 - ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
-- 📖 I am currently learning Nextjs, Supabase, Typescript 
+- 📖 I am currently learning Nextjs, Supabase, Typescript and Three.js.
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
 - 🤔 I’m currently looking for Frontend / Full Stack positions.
 - 📫 How to reach me: oscarharron@hotmail.com
