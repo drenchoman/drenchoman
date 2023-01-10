@@ -13,10 +13,10 @@
 - ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
 - 📖 I am currently learning Nextjs, Supabase, Typescript and Three.js.
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
-- 🤔 I’m currently looking for Front end / Full Stack positions.
+- 🤔 Checkout my [portfolio](https://oscarharron.com)
 - 📫 How to reach me: oscarharron@hotmail.com
 
-
+Need job pls
 
 **Languages and Tools:**
 <p>
