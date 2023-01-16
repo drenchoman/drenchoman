@@ -11,12 +11,11 @@
   
 - 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz)
 - ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
+- 🧠 I am currently taking part in the [Summer of AWS course](https://nextwork.org/pages/summer-of-aws) where I am learning more about Cloud Computing.
 - 📖 I am currently learning Nextjs, Supabase, Typescript and Three.js.
 - 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
 - 🤔 Checkout my [portfolio](https://oscarharron.com)
 - 📫 How to reach me: oscarharron@hotmail.com
-
-Need job pls
 
 **Languages and Tools:**
 <p>
