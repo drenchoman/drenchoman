@@ -9,7 +9,7 @@
 **What I'm up to:**
 <img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
-- 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aoetearoa Web Development Bootcamp](https://www.devacademy.co.nz)
+- 👨🏽‍💻 I am a recent graduate of the [Dev Academy Aotearoa Web Development Bootcamp](https://www.devacademy.co.nz)
 - ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
 - 🧠 I am currently taking part in the [Summer of AWS course](https://nextwork.org/pages/summer-of-aws) where I am learning more about Cloud Computing.
 - 📖 I am currently learning Nextjs, Svelte and TypeScript.
