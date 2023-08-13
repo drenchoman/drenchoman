@@ -9,10 +9,9 @@
 **What I'm up to:**
 <img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
   
-- ☕ I am working on [vintageclothing.co.nz](https://www.vintageclothing.co.nz)
-- 🧠 I recently achieved a AWS Cloud Practitioner Certification through [Summer of AWS course](https://nextwork.org/pages/summer-of-aws) 
-- 📖 I am currently learning Nextjs 13 and TypeScript.
-- 👯 My favourite projects completed [Hacker-Club](https://github.com/drenchoman/express_members_only), [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/), [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
+- ☕ I recently completed [Go Again - A simple habit tracker](https://habit-tracker-next.vercel.app/)
+- 📖 I am currently learning Nextjs 13, Firebase and TypeScript.
+- 👯 My favourite projects completed [Ye-Olde-Diary](https://blog-client-zeta.vercel.app/) and [Correspondence](https://github.com/drenchoman/Delayed-Messaging)
 - 🤔 Checkout my [portfolio](https://oscarharron.com)
 - 📫 How to reach me: oscarharron@hotmail.com
 
