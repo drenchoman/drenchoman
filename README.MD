@@ -7,7 +7,7 @@
 
 &nbsp;
 **What I'm up to:**
-<img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1643400366/abstract_aop5gu.svg" />
+<img width="55%" align="right" alt="Abstract" src="https://res.cloudinary.com/dhkbanegq/image/upload/v1664935541/presenting_tr5lwe.jpg" />
   
 - ☕ I recently completed [Go Again - A simple habit tracker](https://habit-tracker-next.vercel.app/)
 - 📖 I am currently learning Nextjs 13, Firebase and WordPress.
